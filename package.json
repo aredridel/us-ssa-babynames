@@ -1,0 +1,16 @@
+{
+  "name": "us-ssa-babynames",
+  "version": "2017.0.0",
+  "description": "All first names from the US SSA since 1880",
+  "main": "names.json",
+  "author": "United States Social Security Administration",
+  "license": "CC0-1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aredridel/us-ssa-babynames.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aredridel/us-ssa-babynames/issues"
+  },
+  "homepage": "https://github.com/aredridel/us-ssa-babynames#readme"
+}
